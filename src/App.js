@@ -4,9 +4,14 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+     
        <h1>Hello World </h1>
-      </header>
+       <p> This project was created by Laura Parpillon and is </p>
+
+<footer>
+       <a href="https://github.com/laurappl/weather-react" target="_blank">open sourced</a>
+       </footer>
+     
     </div>
   );
 }
