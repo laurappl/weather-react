@@ -9,7 +9,7 @@ function App() {
        <p> This project was created by Laura Parpillon and is </p>
 
 <footer>
-       <a href="https://github.com/laurappl/weather-react" target="_blank">open sourced</a>
+       <a href="https://github.com/laurappl/weather-react">open sourced</a>
        </footer>
      
     </div>
